@@ -40,3 +40,7 @@
 - <https://unsplash.com/photos/0sUe24rw_Fg>
 - <https://unsplash.com/photos/I--YyrXUphc>
 - <https://unsplash.com/photos/yoIIPcrWhjI>
+
+### Others
+
+https://blog.theodo.com/2021/04/library-tree-shaking/
